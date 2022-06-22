@@ -3,10 +3,10 @@ I am Akshay from India, and I do analyze datasets to find trends and extract mea
 I also love to take part in various Datascience Hackathons on platforms like Kaggle, Analytics Vidhya and MachineHack.
 
 Skills:
-Market Research
-Python
-Exploratory Data Analysis
-Machine Learning
+Market Research,
+Python,
+Exploratory Data Analysis,
+Machine Learning,
 Data Visualisation
 
 
