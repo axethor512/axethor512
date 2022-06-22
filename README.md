@@ -1,7 +1,8 @@
 ### Hi there 👋, Akshay
 **I am a marketeer who loves to explore data**
 \
-(https://github.com/axethor512/axethor512/blob/main/alina-grubnyak-ZiQkhI7417A-unsplash.jpg)
+[<img src='https://github.com/axethor512/axethor512/blob/main/alina-grubnyak-ZiQkhI7417A-unsplash.jpg' alt='cover' height='200'>]
+
 \
  I analyze datasets to find trends and extract meaningful insights from them. I really enjoy data visualization and I use Dataviz tools like Tableau and Power BI. I also love to take part in various Data science Hackathons on platforms like Kaggle, Analytics Vidhya, and MachineHack.
 
